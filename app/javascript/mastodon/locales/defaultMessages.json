@@ -1404,7 +1404,7 @@
         "id": "compose_form.spoiler_placeholder"
       },
       {
-        "defaultMessage": "Publish",
+        "defaultMessage": "Rawr",
         "id": "compose_form.publish"
       },
       {
@@ -3972,7 +3972,7 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "Publish",
+        "defaultMessage": "Rawr",
         "id": "compose_form.publish_form"
       },
       {
