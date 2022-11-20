@@ -1,4 +1,4 @@
-#  Mastodon Glitch Edition  #
+#  Mastodon Glitch Edition (rawr.ink edit) #
 
 >   Now with automated deploys!
 
